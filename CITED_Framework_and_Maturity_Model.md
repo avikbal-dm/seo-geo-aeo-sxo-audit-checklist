@@ -1,4 +1,4 @@
-# The CITED Framework
+# The CITED Framework and CITED Maturity Model by Avik Bal
 
 **A growth operating system for visibility in the age of AI search.**
 
