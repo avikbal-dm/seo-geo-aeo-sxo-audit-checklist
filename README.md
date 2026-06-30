@@ -35,9 +35,9 @@ The workbook has 15 tabs, each a focused checklist for one job:
 | 4 | Content Audit | Deep content quality: redundancy, uniqueness, E-E-A-T, semantic depth | Monthly / quarterly |
 | 5 | Technical SEO | Full technical audit: crawl, index, speed, mobile, security, structured data | Monthly |
 | 6 | On-Page SEO | Title, meta, headings, copy, internal links, images, schema, per page | Every page or edit |
-| 7 | GEO — AI Engines | Generative Engine Optimization: AI Overviews, ChatGPT, Perplexity readiness | Every page |
-| 8 | SXO — Search Experience | Search Experience Optimization: intent match, UX signals, SERP alignment | Every page |
-| 9 | AIO — AI Overviews | Specific checklist for Google AI Overview citation eligibility | Every page |
+| 7 | GEO - AI Engines | Generative Engine Optimization: AI Overviews, ChatGPT, Perplexity readiness | Every page |
+| 8 | SXO - Search Experience | Search Experience Optimization: intent match, UX signals, SERP alignment | Every page |
+| 9 | AIO - AI Overviews | Specific checklist for Google AI Overview citation eligibility | Every page |
 | 10 | Backlinks & Authority | Link building, anchor text, toxic link audit, competitor gap | Monthly |
 | 11 | YouTube & Video SEO | Video content, descriptions, chapters, schema, embedding | Every video |
 | 12 | Local SEO | Google Business Profile, NAP, local schema, citations, reviews | Local sites |
@@ -99,5 +99,3 @@ Free to use, adapt, and share for any commercial or non-commercial purpose. Attr
 **Avik Bal** is a digital growth strategist and marketing operations practitioner working with B2B software companies, focused on SEO, generative engine optimization, and AI search visibility.
 
 - LinkedIn: [linkedin.com/in/avikbal](https://linkedin.com/in/avikbal)
-- GitHub: [github.com/avikbal](https://github.com/avikbal)
-- Website: [avikbal.com](https://avikbal.com)
